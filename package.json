@@ -1,0 +1,25 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "",
+  "exports": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/JoelB-P/Team-Profile-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoelB-P/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/JoelB-P/Team-Profile-Generator#readme",
+  "dependencies": {
+    "-": "^0.0.1",
+    "inquirer": "^8.2.5",
+    "mysql2": "^2.3.3"
+  }
+}
